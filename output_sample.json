@@ -1,0 +1,47 @@
+[
+  {
+    "device_id": "0002bc40cdce40230c9ff7eaee8febb910add4deb988fb36cd733beea20be27d",
+    "user_drinks": 1,
+    "user_smokes": 1,
+    "johnny_talker": 1,
+    "giggolo": 0,
+    "vapeshape": 1,
+    "persona": "sinner"
+  },
+  {
+    "device_id": "0006c3c0704330a9c3fbc50367e31d33cbb00030d32140b45555d46d88a612e2",
+    "user_drinks": 1,
+    "user_smokes": 1,
+    "johnny_talker": 1,
+    "giggolo": 0,
+    "vapeshape": 1,
+    "persona": "sinner"
+  },
+  {
+    "device_id": "000c6a7e78982a6f99285b978e857d6f57dc95a9c11b8c80ac63b4bb04e32637",
+    "user_drinks": 0,
+    "user_smokes": 0,
+    "johnny_talker": 0,
+    "giggolo": 1,
+    "vapeshape": 0,
+    "persona": "saint"
+  },
+  {
+    "device_id": "000df74543b95f9b08273f3564369a390ff832e0da8f951048ecfc090a404c53",
+    "user_drinks": 0,
+    "user_smokes": 0,
+    "johnny_talker": 0,
+    "giggolo": 1,
+    "vapeshape": 0,
+    "persona": "saint"
+  },
+  {
+    "device_id": "001b6977e23f617957e37c134566370bfd989ce1180e256b0da126ce14075095",
+    "user_drinks": 1,
+    "user_smokes": 0,
+    "johnny_talker": 0,
+    "giggolo": 1,
+    "vapeshape": 0,
+    "persona": "tippler"
+  }
+]

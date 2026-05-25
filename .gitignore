@@ -1,0 +1,36 @@
+# Environment / secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Output directories (generated at runtime)
+outputs_setup/
+outputs_Q1/
+outputs_Q2/
+
+# Serialised models
+*.pkl
+
+# Full output JSON (submission file — not committed)
+*.json
+!output_sample.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+.claude/
